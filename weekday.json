@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Monday",
+    "shortForm": "Mon"
+  },
+  {
+    "name": "Tuesday"
+  },
+  {
+    "name": "Wednesday",
+    "shortForm": "Wed"
+  },
+  {
+    "name": "Thursday"
+    "shortForm": "Thu"
+  },
+  {
+    "name": "Friday",
+    "shortForm": "Fri"
+  },
+  {
+    "shortForm": "Sat",
+  },
+  {
+    "name": "Sunday",
+    "uselessField": "uselessValue"
+  }
+]
